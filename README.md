@@ -25,4 +25,4 @@ It highlights case growth, geographic spread, country-wise impact, and vaccinati
 
 
 ### 👤 Author
-**Rajash
+**ANJAN ADITYA
