@@ -4,7 +4,7 @@ This project presents an interactive Tableau dashboard analyzing global COVID-19
 It highlights case growth, geographic spread, country-wise impact, and vaccination progress.
 
 ## 📊 Dashboard Overview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard1.png)
 
 ## 🔍 Key Insights
 - COVID-19 cases peaked during **2021–2022**, reflecting maximum global spread.
